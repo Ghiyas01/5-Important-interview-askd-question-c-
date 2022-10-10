@@ -10,6 +10,7 @@ Ans.
 
  Using namespace std in C++ tells the compiler that you will be making use of the namespace called ‘std’. The ‘std’ namespace contains all the features of the standard library. You need to put this statement at the start of all your C++ codes if you don’t want to keep on writing std:: infront of every variable/string or whatever standard library feature you are making use of, as it becomes tedious to do so.
 
+// Second 
 
  2) What is type casting in C++?
 
@@ -17,6 +18,7 @@ Ans.
 
  Type casting in C is used to change the data type. They are of two types: Implicit Type Conversion: It is automatic. Explicit Type Conversion: It is user-defined.
 
+// Third
 
  3) What is the difference between structure and class in C++?
 
@@ -36,6 +38,7 @@ Ans.
 
 – Structures are stored as stack in memory whereas class is stored as heap in memory.
 
+// Fourth
 
 4) Which operator cannot be overloaded in C++ ?
 
@@ -51,6 +54,7 @@ Some of the operators that cannot be overloaded are as follows:
 
 – Pointer to member operator- “.*”
 
+// Fifth
 
 5) What is the difference between C++ and Java?
 
